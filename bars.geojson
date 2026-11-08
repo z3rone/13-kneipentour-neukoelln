@@ -1,0 +1,1202 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4546906,
+          52.4726055
+        ]
+      },
+      "properties": {
+        "name": "Loreley Bar",
+        "description": "**Adresse**: Saalestraße 38, 12055 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.6 (350 Bewertungen)\n\n**Vibe**: Gemütlich, Kiez, Entspannt",
+        "address": "Saalestraße 38, 12055 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.6,
+        "reviews": 350,
+        "vibe": "Gemütlich, Kiez, Entspannt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4543491,
+          52.4729703
+        ]
+      },
+      "properties": {
+        "name": "Ringbar",
+        "description": "**Adresse**: Schwarzastraße 1, 12055 Berlin\n\n**Öffnungszeiten**: 16:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.2 (120 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Raucherbar",
+        "address": "Schwarzastraße 1, 12055 Berlin",
+        "hours_from": "16:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.2,
+        "reviews": 120,
+        "vibe": "Urig, Eckkneipe, Raucherbar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4546603,
+          52.4730512
+        ]
+      },
+      "properties": {
+        "name": "Torte",
+        "description": "**Adresse**: Brusendorfer Str. 12, 12055 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (180 Bewertungen)\n\n**Vibe**: Alternativ, Wohnzimmer, Kiez",
+        "address": "Brusendorfer Str. 12, 12055 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 180,
+        "vibe": "Alternativ, Wohnzimmer, Kiez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4556388,
+          52.4737481
+        ]
+      },
+      "properties": {
+        "name": "La Vida Bar",
+        "description": "**Adresse**: Sonnenallee 220, 12059 Berlin\n\n**Öffnungszeiten**: 17:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.1 (140 Bewertungen)\n\n**Vibe**: Shisha, Bar, Gesellig",
+        "address": "Sonnenallee 220, 12059 Berlin",
+        "hours_from": "17:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.1,
+        "reviews": 140,
+        "vibe": "Shisha, Bar, Gesellig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4550386,
+          52.474068
+        ]
+      },
+      "properties": {
+        "name": "Cafe Yakomoz",
+        "description": "**Adresse**: Sonnenallee 214, 12059 Berlin\n\n**Öffnungszeiten**: 09:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (210 Bewertungen)\n\n**Vibe**: Café, Shisha, Lebhaft",
+        "address": "Sonnenallee 214, 12059 Berlin",
+        "hours_from": "09:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.3,
+        "reviews": 210,
+        "vibe": "Café, Shisha, Lebhaft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4554001,
+          52.4739017
+        ]
+      },
+      "properties": {
+        "name": "Nina Bar",
+        "description": "**Adresse**: Sonnenallee 218, 12059 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.2 (95 Bewertungen)\n\n**Vibe**: Shisha, Lounge, Nachtbar",
+        "address": "Sonnenallee 218, 12059 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.2,
+        "reviews": 95,
+        "vibe": "Shisha, Lounge, Nachtbar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4535244,
+          52.4752688
+        ]
+      },
+      "properties": {
+        "name": "Sonnenschein Café & Lounge",
+        "description": "**Adresse**: Sonnenallee 201, 12059 Berlin\n\n**Öffnungszeiten**: 12:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.0 (110 Bewertungen)\n\n**Vibe**: Lounge, Shisha, Belegt",
+        "address": "Sonnenallee 201, 12059 Berlin",
+        "hours_from": "12:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.0,
+        "reviews": 110,
+        "vibe": "Lounge, Shisha, Belegt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4521504,
+          52.474417
+        ]
+      },
+      "properties": {
+        "name": "Keglerheim",
+        "description": "**Adresse**: Mareschstraße 6, 12055 Berlin\n\n**Öffnungszeiten**: 16:00 – 01:00\n\n**Preis**: € | **Sterne**: 4.4 (160 Bewertungen)\n\n**Vibe**: Urig, Kegeln, Traditionell",
+        "address": "Mareschstraße 6, 12055 Berlin",
+        "hours_from": "16:00",
+        "hours_to": "01:00",
+        "price": "€",
+        "rating": 4.4,
+        "reviews": 160,
+        "vibe": "Urig, Kegeln, Traditionell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.451159,
+          52.4736946
+        ]
+      },
+      "properties": {
+        "name": "B-Lage",
+        "description": "**Adresse**: Mareschstraße 1, 12055 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.7 (450 Bewertungen)\n\n**Vibe**: Alternativ, Kollektiv, Kiez",
+        "address": "Mareschstraße 1, 12055 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.7,
+        "reviews": 450,
+        "vibe": "Alternativ, Kollektiv, Kiez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4508845,
+          52.4739694
+        ]
+      },
+      "properties": {
+        "name": "Zum Magendoktor",
+        "description": "**Adresse**: Mareschstraße 19, 12055 Berlin\n\n**Öffnungszeiten**: 10:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.1 (80 Bewertungen)\n\n**Vibe**: Urig, Kultig, Eckkneipe",
+        "address": "Mareschstraße 19, 12055 Berlin",
+        "hours_from": "10:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.1,
+        "reviews": 80,
+        "vibe": "Urig, Kultig, Eckkneipe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4491949,
+          52.4742101
+        ]
+      },
+      "properties": {
+        "name": "Rotbart",
+        "description": "**Adresse**: Böhmische Str. 43, 12055 Berlin\n\n**Öffnungszeiten**: 17:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.6 (750 Bewertungen)\n\n**Vibe**: Craftbier, Hip, Holzvertäfelt",
+        "address": "Böhmische Str. 43, 12055 Berlin",
+        "hours_from": "17:00",
+        "hours_to": "03:00",
+        "price": "€€",
+        "rating": 4.6,
+        "reviews": 750,
+        "vibe": "Craftbier, Hip, Holzvertäfelt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4523402,
+          52.4711913
+        ]
+      },
+      "properties": {
+        "name": "Relax Cafe-Bar-Lounge",
+        "description": "**Adresse**: Saalestraße 30, 12055 Berlin\n\n**Öffnungszeiten**: 15:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (130 Bewertungen)\n\n**Vibe**: Lounge, Shisha, Entspannt",
+        "address": "Saalestraße 30, 12055 Berlin",
+        "hours_from": "15:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.3,
+        "reviews": 130,
+        "vibe": "Lounge, Shisha, Entspannt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4510314,
+          52.4716193
+        ]
+      },
+      "properties": {
+        "name": "Kollektiv Bar Kleinod",
+        "description": "**Adresse**: Niemetzstraße 24, 12055 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.7 (320 Bewertungen)\n\n**Vibe**: Kollektiv, Kicker, Alternativ",
+        "address": "Niemetzstraße 24, 12055 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.7,
+        "reviews": 320,
+        "vibe": "Kollektiv, Kicker, Alternativ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4394258,
+          52.4696889
+        ]
+      },
+      "properties": {
+        "name": "bajszel",
+        "description": "**Adresse**: Emser Str. 8-9, 12051 Berlin\n\n**Öffnungszeiten**: 17:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.6 (480 Bewertungen)\n\n**Vibe**: Kulturkneipe, Politisch, Gemütlich",
+        "address": "Emser Str. 8-9, 12051 Berlin",
+        "hours_from": "17:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.6,
+        "reviews": 480,
+        "vibe": "Kulturkneipe, Politisch, Gemütlich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4380703,
+          52.4666813
+        ]
+      },
+      "properties": {
+        "name": "Marktbörse",
+        "description": "**Adresse**: Bruno-Bauer-Straße 2, 12051 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (110 Bewertungen)\n\n**Vibe**: Urig, Kiez, Eckkneipe",
+        "address": "Bruno-Bauer-Straße 2, 12051 Berlin",
+        "hours_from": "14:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.3,
+        "reviews": 110,
+        "vibe": "Urig, Kiez, Eckkneipe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4370459,
+          52.4694291
+        ]
+      },
+      "properties": {
+        "name": "Flaschenzug Bar",
+        "description": "**Adresse**: Emser Str. 16, 12051 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.5 (600 Bewertungen)\n\n**Vibe**: Vintage, Industriell, Lebhaft",
+        "address": "Emser Str. 16, 12051 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€€",
+        "rating": 4.5,
+        "reviews": 600,
+        "vibe": "Vintage, Industriell, Lebhaft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4312588,
+          52.4680025
+        ]
+      },
+      "properties": {
+        "name": "Bierlokal Zum Umsteiger",
+        "description": "**Adresse**: Hermannstraße 159, 12051 Berlin\n\n**Öffnungszeiten**: 10:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.2 (130 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Traditionsreich",
+        "address": "Hermannstraße 159, 12051 Berlin",
+        "hours_from": "10:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.2,
+        "reviews": 130,
+        "vibe": "Urig, Eckkneipe, Traditionsreich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4316335,
+          52.4687123
+        ]
+      },
+      "properties": {
+        "name": "Ruine Bar",
+        "description": "**Adresse**: Emser Str. 34, 12051 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (350 Bewertungen)\n\n**Vibe**: Kerzenschein, Schummrig, Kiez",
+        "address": "Emser Str. 34, 12051 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 350,
+        "vibe": "Kerzenschein, Schummrig, Kiez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.430537,
+          52.4692988
+        ]
+      },
+      "properties": {
+        "name": "Alt-Berliner Bierlokal Bienenkorb",
+        "description": "**Adresse**: Hermannstraße 164, 12051 Berlin\n\n**Öffnungszeiten**: 11:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.3 (220 Bewertungen)\n\n**Vibe**: Urig, Berlinerisch, Stammtisch",
+        "address": "Hermannstraße 164, 12051 Berlin",
+        "hours_from": "11:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.3,
+        "reviews": 220,
+        "vibe": "Urig, Berlinerisch, Stammtisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4297505,
+          52.4697413
+        ]
+      },
+      "properties": {
+        "name": "Tante Frizzante Event-Bar & KiezGarten Zart Daneben",
+        "description": "**Adresse**: Hermannstraße 99, 12051 Berlin\n\n**Öffnungszeiten**: 17:00 – 02:00\n\n**Preis**: €€ | **Sterne**: 4.7 (280 Bewertungen)\n\n**Vibe**: Bunt, Garten, Eventbar",
+        "address": "Hermannstraße 99, 12051 Berlin",
+        "hours_from": "17:00",
+        "hours_to": "02:00",
+        "price": "€€",
+        "rating": 4.7,
+        "reviews": 280,
+        "vibe": "Bunt, Garten, Eventbar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4296029,
+          52.470131
+        ]
+      },
+      "properties": {
+        "name": "Warthe-Eck",
+        "description": "**Adresse**: Hermannstraße 95, 12051 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.1 (210 Bewertungen)\n\n**Vibe**: 24h, Urig, Verraucht",
+        "address": "Hermannstraße 95, 12051 Berlin",
+        "hours_from": "00:00",
+        "hours_to": "24:00",
+        "price": "€",
+        "rating": 4.1,
+        "reviews": 210,
+        "vibe": "24h, Urig, Verraucht"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4261908,
+          52.4742607
+        ]
+      },
+      "properties": {
+        "name": "BruchBerg Bar",
+        "description": "**Adresse**: Okerstraße 5, 12049 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.6 (310 Bewertungen)\n\n**Vibe**: Schick, Cocktails, Hip",
+        "address": "Okerstraße 5, 12049 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€€",
+        "rating": 4.6,
+        "reviews": 310,
+        "vibe": "Schick, Cocktails, Hip"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4251915,
+          52.4739325
+        ]
+      },
+      "properties": {
+        "name": "Frollein Langner",
+        "description": "**Adresse**: Weisestraße 34, 12049 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.5 (680 Bewertungen)\n\n**Vibe**: Vintage, Wohnzimmer, Kiez",
+        "address": "Weisestraße 34, 12049 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 680,
+        "vibe": "Vintage, Wohnzimmer, Kiez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.425115,
+          52.4741447
+        ]
+      },
+      "properties": {
+        "name": "Savo Bar Café",
+        "description": "**Adresse**: Weisestraße 35, 12049 Berlin\n\n**Öffnungszeiten**: 17:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.4 (240 Bewertungen)\n\n**Vibe**: Gemütlich, Entspannt, Kiez",
+        "address": "Weisestraße 35, 12049 Berlin",
+        "hours_from": "17:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.4,
+        "reviews": 240,
+        "vibe": "Gemütlich, Entspannt, Kiez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.423664,
+          52.4737643
+        ]
+      },
+      "properties": {
+        "name": "bechereck",
+        "description": "**Adresse**: Okerstraße 35, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.5 (190 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Ehrlich",
+        "address": "Okerstraße 35, 12049 Berlin",
+        "hours_from": "16:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 190,
+        "vibe": "Urig, Eckkneipe, Ehrlich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4234458,
+          52.4739372
+        ]
+      },
+      "properties": {
+        "name": "Schattenwerk Bar und Brauerei",
+        "description": "**Adresse**: Schillerpromenade 26, 12049 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: €€ | **Sterne**: 4.7 (380 Bewertungen)\n\n**Vibe**: Brauerei, Craftbier, Gemütlich",
+        "address": "Schillerpromenade 26, 12049 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "02:00",
+        "price": "€€",
+        "rating": 4.7,
+        "reviews": 380,
+        "vibe": "Brauerei, Craftbier, Gemütlich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4248127,
+          52.4751417
+        ]
+      },
+      "properties": {
+        "name": "Zur Molle (Dart- und Billardkneipe)",
+        "description": "**Adresse**: Weisestraße 41, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (320 Bewertungen)\n\n**Vibe**: Urig, Darts, Billard",
+        "address": "Weisestraße 41, 12049 Berlin",
+        "hours_from": "16:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.4,
+        "reviews": 320,
+        "vibe": "Urig, Darts, Billard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4230042,
+          52.4754287
+        ]
+      },
+      "properties": {
+        "name": "Bierbaum 3",
+        "description": "**Adresse**: Schillerpromenade 31, 12049 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.1 (410 Bewertungen)\n\n**Vibe**: 24h, Kultig, Verraucht",
+        "address": "Schillerpromenade 31, 12049 Berlin",
+        "hours_from": "00:00",
+        "hours_to": "24:00",
+        "price": "€",
+        "rating": 4.1,
+        "reviews": 410,
+        "vibe": "24h, Kultig, Verraucht"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4221159,
+          52.4757036
+        ]
+      },
+      "properties": {
+        "name": "Promenaden Eck",
+        "description": "**Adresse**: Schillerpromenade 11, 12049 Berlin\n\n**Öffnungszeiten**: 20:00 – 05:00\n\n**Preis**: € | **Sterne**: 4.4 (750 Bewertungen)\n\n**Vibe**: Party, Tanzbar, Hip",
+        "address": "Schillerpromenade 11, 12049 Berlin",
+        "hours_from": "20:00",
+        "hours_to": "05:00",
+        "price": "€",
+        "rating": 4.4,
+        "reviews": 750,
+        "vibe": "Party, Tanzbar, Hip"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4213073,
+          52.4767727
+        ]
+      },
+      "properties": {
+        "name": "Daffke",
+        "description": "**Adresse**: Herrfurthpl. 7, 12049 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: €€ | **Sterne**: 4.6 (350 Bewertungen)\n\n**Vibe**: Hip, Cocktails, Schillerkiez",
+        "address": "Herrfurthpl. 7, 12049 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "02:00",
+        "price": "€€",
+        "rating": 4.6,
+        "reviews": 350,
+        "vibe": "Hip, Cocktails, Schillerkiez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4236539,
+          52.4773934
+        ]
+      },
+      "properties": {
+        "name": "Herrlich Berlin",
+        "description": "**Adresse**: Herrfurthstraße 7, 12049 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: €€ | **Sterne**: 4.5 (420 Bewertungen)\n\n**Vibe**: Gemütlich, Weinbar, Hip",
+        "address": "Herrfurthstraße 7, 12049 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "02:00",
+        "price": "€€",
+        "rating": 4.5,
+        "reviews": 420,
+        "vibe": "Gemütlich, Weinbar, Hip"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4239149,
+          52.476827
+        ]
+      },
+      "properties": {
+        "name": "Froschkönig",
+        "description": "**Adresse**: Weisestraße 17, 12049 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (530 Bewertungen)\n\n**Vibe**: Märchenhaft, Livemusik, Kiez",
+        "address": "Weisestraße 17, 12049 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 530,
+        "vibe": "Märchenhaft, Livemusik, Kiez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4213194,
+          52.4782636
+        ]
+      },
+      "properties": {
+        "name": "Keith Bar",
+        "description": "**Adresse**: Schillerpromenade 2, 12049 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.7 (690 Bewertungen)\n\n**Vibe**: Whiskey, Stilvoll, Schummrig",
+        "address": "Schillerpromenade 2, 12049 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€€",
+        "rating": 4.7,
+        "reviews": 690,
+        "vibe": "Whiskey, Stilvoll, Schummrig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.423709,
+          52.4790816
+        ]
+      },
+      "properties": {
+        "name": "Blauer Affe 1",
+        "description": "**Adresse**: Selchower Str. 6, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (160 Bewertungen)\n\n**Vibe**: Urig, Raucherkneipe, Kiez",
+        "address": "Selchower Str. 6, 12049 Berlin",
+        "hours_from": "16:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.3,
+        "reviews": 160,
+        "vibe": "Urig, Raucherkneipe, Kiez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4234197,
+          52.479667
+        ]
+      },
+      "properties": {
+        "name": "Mahlower Klause",
+        "description": "**Adresse**: Weisestraße 63, 12049 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (140 Bewertungen)\n\n**Vibe**: Urig, Berlinerisch, Eckkneipe",
+        "address": "Weisestraße 63, 12049 Berlin",
+        "hours_from": "14:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.3,
+        "reviews": 140,
+        "vibe": "Urig, Berlinerisch, Eckkneipe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4250166,
+          52.4802063
+        ]
+      },
+      "properties": {
+        "name": "Bäreneck",
+        "description": "**Adresse**: Hermannstraße 37, 12049 Berlin\n\n**Öffnungszeiten**: 12:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.2 (190 Bewertungen)\n\n**Vibe**: Urig, Kultig, Eckkneipe",
+        "address": "Hermannstraße 37, 12049 Berlin",
+        "hours_from": "12:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.2,
+        "reviews": 190,
+        "vibe": "Urig, Kultig, Eckkneipe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4275975,
+          52.4810026
+        ]
+      },
+      "properties": {
+        "name": "Poison Karaoke Bar Neukölln",
+        "description": "**Adresse**: Flughafenstraße 39, 12053 Berlin\n\n**Öffnungszeiten**: 20:00 – 05:00\n\n**Preis**: € | **Sterne**: 4.5 (850 Bewertungen)\n\n**Vibe**: Karaoke, Feuchtfröhlich, Bunt",
+        "address": "Flughafenstraße 39, 12053 Berlin",
+        "hours_from": "20:00",
+        "hours_to": "05:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 850,
+        "vibe": "Karaoke, Feuchtfröhlich, Bunt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4277565,
+          52.4807111
+        ]
+      },
+      "properties": {
+        "name": "Deriva -Neukölln-",
+        "description": "**Adresse**: Mainzer Str. 23, 12053 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.6 (520 Bewertungen)\n\n**Vibe**: Gemütlich, Holzig, Kiez",
+        "address": "Mainzer Str. 23, 12053 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.6,
+        "reviews": 520,
+        "vibe": "Gemütlich, Holzig, Kiez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4268025,
+          52.4799351
+        ]
+      },
+      "properties": {
+        "name": "Schankwirtschaft Laidak",
+        "description": "**Adresse**: Boddinstraße 42/43, 12053 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.6 (920 Bewertungen)\n\n**Vibe**: Bohème, Verraucht, Bücher",
+        "address": "Boddinstraße 42/43, 12053 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.6,
+        "reviews": 920,
+        "vibe": "Bohème, Verraucht, Bücher"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4280825,
+          52.4812689
+        ]
+      },
+      "properties": {
+        "name": "Trude Ruth und Goldammer",
+        "description": "**Adresse**: Flughafenstraße 38, 12053 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.6 (610 Bewertungen)\n\n**Vibe**: Vintage, Cocktails, Schick",
+        "address": "Flughafenstraße 38, 12053 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "03:00",
+        "price": "€€",
+        "rating": 4.6,
+        "reviews": 610,
+        "vibe": "Vintage, Cocktails, Schick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4293293,
+          52.4821056
+        ]
+      },
+      "properties": {
+        "name": "Sandmann",
+        "description": "**Adresse**: Reuterstraße 7, 12053 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (580 Bewertungen)\n\n**Vibe**: Gemütlich, Kiez, Studentisch",
+        "address": "Reuterstraße 7, 12053 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 580,
+        "vibe": "Gemütlich, Kiez, Studentisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4343957,
+          52.482484
+        ]
+      },
+      "properties": {
+        "name": "Zur Pinte",
+        "description": "**Adresse**: Fuldastraße 3, 12043 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.3 (250 Bewertungen)\n\n**Vibe**: 24h, Urig, Eckkneipe",
+        "address": "Fuldastraße 3, 12043 Berlin",
+        "hours_from": "00:00",
+        "hours_to": "24:00",
+        "price": "€",
+        "rating": 4.3,
+        "reviews": 250,
+        "vibe": "24h, Urig, Eckkneipe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4374137,
+          52.4827918
+        ]
+      },
+      "properties": {
+        "name": "Bierbaum 2",
+        "description": "**Adresse**: Sonnenallee 86, 12045 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.0 (380 Bewertungen)\n\n**Vibe**: 24h, Verraucht, Kultig",
+        "address": "Sonnenallee 86, 12045 Berlin",
+        "hours_from": "00:00",
+        "hours_to": "24:00",
+        "price": "€",
+        "rating": 4.0,
+        "reviews": 380,
+        "vibe": "24h, Verraucht, Kultig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4400849,
+          52.4814769
+        ]
+      },
+      "properties": {
+        "name": "Rixdorfer",
+        "description": "**Adresse**: Erkstraße 14, 12043 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (170 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Kiez",
+        "address": "Erkstraße 14, 12043 Berlin",
+        "hours_from": "14:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.3,
+        "reviews": 170,
+        "vibe": "Urig, Eckkneipe, Kiez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4414349,
+          52.4830014
+        ]
+      },
+      "properties": {
+        "name": "Weser 58",
+        "description": "**Adresse**: Weserstr. 58, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (390 Bewertungen)\n\n**Vibe**: Schummrig, Weserkiez, Hip",
+        "address": "Weserstr. 58, 12045 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 390,
+        "vibe": "Schummrig, Weserkiez, Hip"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4370737,
+          52.484827
+        ]
+      },
+      "properties": {
+        "name": "Ä-Stube",
+        "description": "**Adresse**: Fuldastraße 46, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (260 Bewertungen)\n\n**Vibe**: Alternativ, Gemütlich, Kiez",
+        "address": "Fuldastraße 46, 12045 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 260,
+        "vibe": "Alternativ, Gemütlich, Kiez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4372849,
+          52.4850209
+        ]
+      },
+      "properties": {
+        "name": "Ä",
+        "description": "**Adresse**: Weserstr. 40, 12045 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (1400 Bewertungen)\n\n**Vibe**: Kicker, Kollektiv, Trubelig",
+        "address": "Weserstr. 40, 12045 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 1400,
+        "vibe": "Kicker, Kollektiv, Trubelig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4372685,
+          52.4852855
+        ]
+      },
+      "properties": {
+        "name": "Ratzeputz",
+        "description": "**Adresse**: Weserstr. 182, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.6 (820 Bewertungen)\n\n**Vibe**: Schnapsbar, Rustikal, Hip",
+        "address": "Weserstr. 182, 12045 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€€",
+        "rating": 4.6,
+        "reviews": 820,
+        "vibe": "Schnapsbar, Rustikal, Hip"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4407916,
+          52.4833191
+        ]
+      },
+      "properties": {
+        "name": "Sux",
+        "description": "**Adresse**: Weserstr. 55, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (340 Bewertungen)\n\n**Vibe**: Retro, Weserkiez, Gesellig",
+        "address": "Weserstr. 55, 12045 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.4,
+        "reviews": 340,
+        "vibe": "Retro, Weserkiez, Gesellig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4330943,
+          52.4842382
+        ]
+      },
+      "properties": {
+        "name": "Peppi Guggenheim International",
+        "description": "**Adresse**: Weichselstraße 7, 12043 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.7 (620 Bewertungen)\n\n**Vibe**: Livemusik, Jazz, Kunstbar",
+        "address": "Weichselstraße 7, 12043 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.7,
+        "reviews": 620,
+        "vibe": "Livemusik, Jazz, Kunstbar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4329659,
+          52.4844122
+        ]
+      },
+      "properties": {
+        "name": "Astra Stube Neukölln",
+        "description": "**Adresse**: Weichselstraße 63, 12043 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (430 Bewertungen)\n\n**Vibe**: Fankneipe, Kiez, Astra",
+        "address": "Weichselstraße 63, 12043 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 430,
+        "vibe": "Fankneipe, Kiez, Astra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.430953,
+          52.4865618
+        ]
+      },
+      "properties": {
+        "name": "Tristeza",
+        "description": "**Adresse**: Pannierstraße 5, 12047 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.6 (490 Bewertungen)\n\n**Vibe**: Kollektiv, Kicker, Soli",
+        "address": "Pannierstraße 5, 12047 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.6,
+        "reviews": 490,
+        "vibe": "Kollektiv, Kicker, Soli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4649148,
+          52.5108354
+        ]
+      },
+      "properties": {
+        "name": "Schanki_O_Tannenbaum",
+        "description": "**Adresse**: Weserstr. 20, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (310 Bewertungen)\n\n**Vibe**: Skurril, Indie, Schummrig",
+        "address": "Weserstr. 20, 12045 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 310,
+        "vibe": "Skurril, Indie, Schummrig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4310767,
+          52.4877308
+        ]
+      },
+      "properties": {
+        "name": "Vater - Bar in Neukoelln",
+        "description": "**Adresse**: Weserstr. 202, 12047 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (560 Bewertungen)\n\n**Vibe**: Wohnzimmer, Vintage, Gemütlich",
+        "address": "Weserstr. 202, 12047 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 560,
+        "vibe": "Wohnzimmer, Vintage, Gemütlich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4287183,
+          52.4882522
+        ]
+      },
+      "properties": {
+        "name": "Schillingbar",
+        "description": "**Adresse**: Weserstr. 9, 12047 Berlin\n\n**Öffnungszeiten**: 19:00 – 04:00\n\n**Preis**: € | **Sterne**: 4.4 (460 Bewertungen)\n\n**Vibe**: DJs, Soul, Tanzbar",
+        "address": "Weserstr. 9, 12047 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "04:00",
+        "price": "€",
+        "rating": 4.4,
+        "reviews": 460,
+        "vibe": "DJs, Soul, Tanzbar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4279019,
+          52.489208
+        ]
+      },
+      "properties": {
+        "name": "Dschungel",
+        "description": "**Adresse**: Friedelstraße 12, 12047 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.5 (710 Bewertungen)\n\n**Vibe**: Grün, Botanisch, Cocktails",
+        "address": "Friedelstraße 12, 12047 Berlin",
+        "hours_from": "18:00",
+        "hours_to": "03:00",
+        "price": "€€",
+        "rating": 4.5,
+        "reviews": 710,
+        "vibe": "Grün, Botanisch, Cocktails"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4394259,
+          52.473541
+        ]
+      },
+      "properties": {
+        "name": "Bierbaum 1",
+        "description": "**Adresse**: Thomasstraße 9, 12053 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.2 (320 Bewertungen)\n\n**Vibe**: 24h, Urig, Eckkneipe",
+        "address": "Thomasstraße 9, 12053 Berlin",
+        "hours_from": "00:00",
+        "hours_to": "24:00",
+        "price": "€",
+        "rating": 4.2,
+        "reviews": 320,
+        "vibe": "24h, Urig, Eckkneipe"
+      }
+    }
+  ]
+}
