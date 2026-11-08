@@ -12,13 +12,13 @@
       },
       "properties": {
         "name": "Loreley Bar",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Saalestraße 38, 12055 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.6 (350 Bewertungen)\n\n**Vibe**: Gemütlich, Kiez, Entspannt",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Saalestraße 38, 12055 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.6 (350 Bewertungen)\n\n**Vibe**: Gemütlich, Kiez, Entspannt",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Saalestraße 38, 12055 Berlin",
         "hours_from": "18:00",
         "hours_to": "02:00",
@@ -39,13 +39,13 @@
       },
       "properties": {
         "name": "Ringbar",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Schwarzastraße 1, 12055 Berlin\n\n**Öffnungszeiten**: 16:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.2 (120 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Raucherbar",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Schwarzastraße 1, 12055 Berlin\n\n**Öffnungszeiten**: 16:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.2 (120 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Raucherbar",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Schwarzastraße 1, 12055 Berlin",
         "hours_from": "16:00",
         "hours_to": "02:00",
@@ -66,13 +66,13 @@
       },
       "properties": {
         "name": "Torte",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Brusendorfer Str. 12, 12055 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (180 Bewertungen)\n\n**Vibe**: Alternativ, Wohnzimmer, Kiez",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Brusendorfer Str. 12, 12055 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (180 Bewertungen)\n\n**Vibe**: Alternativ, Wohnzimmer, Kiez",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Brusendorfer Str. 12, 12055 Berlin",
         "hours_from": "18:00",
         "hours_to": "03:00",
@@ -93,13 +93,13 @@
       },
       "properties": {
         "name": "La Vida Bar",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Sonnenallee 220, 12059 Berlin\n\n**Öffnungszeiten**: 17:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.1 (140 Bewertungen)\n\n**Vibe**: Shisha, Bar, Gesellig",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Sonnenallee 220, 12059 Berlin\n\n**Öffnungszeiten**: 17:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.1 (140 Bewertungen)\n\n**Vibe**: Shisha, Bar, Gesellig",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Sonnenallee 220, 12059 Berlin",
         "hours_from": "17:00",
         "hours_to": "03:00",
@@ -120,13 +120,13 @@
       },
       "properties": {
         "name": "Cafe Yakomoz",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Sonnenallee 214, 12059 Berlin\n\n**Öffnungszeiten**: 09:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (210 Bewertungen)\n\n**Vibe**: Café, Shisha, Lebhaft",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Sonnenallee 214, 12059 Berlin\n\n**Öffnungszeiten**: 09:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (210 Bewertungen)\n\n**Vibe**: Café, Shisha, Lebhaft",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Sonnenallee 214, 12059 Berlin",
         "hours_from": "09:00",
         "hours_to": "02:00",
@@ -147,13 +147,13 @@
       },
       "properties": {
         "name": "Nina Bar",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Sonnenallee 218, 12059 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.2 (95 Bewertungen)\n\n**Vibe**: Shisha, Lounge, Nachtbar",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Sonnenallee 218, 12059 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.2 (95 Bewertungen)\n\n**Vibe**: Shisha, Lounge, Nachtbar",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Sonnenallee 218, 12059 Berlin",
         "hours_from": "18:00",
         "hours_to": "03:00",
@@ -174,13 +174,13 @@
       },
       "properties": {
         "name": "Sonnenschein Café & Lounge",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Sonnenallee 201, 12059 Berlin\n\n**Öffnungszeiten**: 12:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.0 (110 Bewertungen)\n\n**Vibe**: Lounge, Shisha, Belegt",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Sonnenallee 201, 12059 Berlin\n\n**Öffnungszeiten**: 12:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.0 (110 Bewertungen)\n\n**Vibe**: Lounge, Shisha, Belegt",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Sonnenallee 201, 12059 Berlin",
         "hours_from": "12:00",
         "hours_to": "02:00",
@@ -201,13 +201,13 @@
       },
       "properties": {
         "name": "Keglerheim",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Mareschstraße 6, 12055 Berlin\n\n**Öffnungszeiten**: 16:00 – 01:00\n\n**Preis**: € | **Sterne**: 4.4 (160 Bewertungen)\n\n**Vibe**: Urig, Kegeln, Traditionell",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Mareschstraße 6, 12055 Berlin\n\n**Öffnungszeiten**: 16:00 – 01:00\n\n**Preis**: € | **Sterne**: 4.4 (160 Bewertungen)\n\n**Vibe**: Urig, Kegeln, Traditionell",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Mareschstraße 6, 12055 Berlin",
         "hours_from": "16:00",
         "hours_to": "01:00",
@@ -228,13 +228,13 @@
       },
       "properties": {
         "name": "B-Lage",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Mareschstraße 1, 12055 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.7 (450 Bewertungen)\n\n**Vibe**: Alternativ, Kollektiv, Kiez",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Mareschstraße 1, 12055 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.7 (450 Bewertungen)\n\n**Vibe**: Alternativ, Kollektiv, Kiez",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Mareschstraße 1, 12055 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -255,13 +255,13 @@
       },
       "properties": {
         "name": "Zum Magendoktor",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Mareschstraße 19, 12055 Berlin\n\n**Öffnungszeiten**: 10:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.1 (80 Bewertungen)\n\n**Vibe**: Urig, Kultig, Eckkneipe",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Mareschstraße 19, 12055 Berlin\n\n**Öffnungszeiten**: 10:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.1 (80 Bewertungen)\n\n**Vibe**: Urig, Kultig, Eckkneipe",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Mareschstraße 19, 12055 Berlin",
         "hours_from": "10:00",
         "hours_to": "02:00",
@@ -282,13 +282,13 @@
       },
       "properties": {
         "name": "Rotbart",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Böhmische Str. 43, 12055 Berlin\n\n**Öffnungszeiten**: 17:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.6 (750 Bewertungen)\n\n**Vibe**: Craftbier, Hip, Holzvertäfelt",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Böhmische Str. 43, 12055 Berlin\n\n**Öffnungszeiten**: 17:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.6 (750 Bewertungen)\n\n**Vibe**: Craftbier, Hip, Holzvertäfelt",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Böhmische Str. 43, 12055 Berlin",
         "hours_from": "17:00",
         "hours_to": "03:00",
@@ -309,13 +309,13 @@
       },
       "properties": {
         "name": "Relax Cafe-Bar-Lounge",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Saalestraße 30, 12055 Berlin\n\n**Öffnungszeiten**: 15:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (130 Bewertungen)\n\n**Vibe**: Lounge, Shisha, Entspannt",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Saalestraße 30, 12055 Berlin\n\n**Öffnungszeiten**: 15:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (130 Bewertungen)\n\n**Vibe**: Lounge, Shisha, Entspannt",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Saalestraße 30, 12055 Berlin",
         "hours_from": "15:00",
         "hours_to": "02:00",
@@ -336,13 +336,13 @@
       },
       "properties": {
         "name": "Kollektiv Bar Kleinod",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Niemetzstraße 24, 12055 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.7 (320 Bewertungen)\n\n**Vibe**: Kollektiv, Kicker, Alternativ",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Niemetzstraße 24, 12055 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.7 (320 Bewertungen)\n\n**Vibe**: Kollektiv, Kicker, Alternativ",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Niemetzstraße 24, 12055 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -363,13 +363,13 @@
       },
       "properties": {
         "name": "bajszel",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Emser Str. 8-9, 12051 Berlin\n\n**Öffnungszeiten**: 17:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.6 (480 Bewertungen)\n\n**Vibe**: Kulturkneipe, Politisch, Gemütlich",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Emser Str. 8-9, 12051 Berlin\n\n**Öffnungszeiten**: 17:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.6 (480 Bewertungen)\n\n**Vibe**: Kulturkneipe, Politisch, Gemütlich",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Emser Str. 8-9, 12051 Berlin",
         "hours_from": "17:00",
         "hours_to": "02:00",
@@ -390,13 +390,13 @@
       },
       "properties": {
         "name": "Marktbörse",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Bruno-Bauer-Straße 2, 12051 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (110 Bewertungen)\n\n**Vibe**: Urig, Kiez, Eckkneipe",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Bruno-Bauer-Straße 2, 12051 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (110 Bewertungen)\n\n**Vibe**: Urig, Kiez, Eckkneipe",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Bruno-Bauer-Straße 2, 12051 Berlin",
         "hours_from": "14:00",
         "hours_to": "02:00",
@@ -417,13 +417,13 @@
       },
       "properties": {
         "name": "Flaschenzug Bar",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Emser Str. 16, 12051 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.5 (600 Bewertungen)\n\n**Vibe**: Vintage, Industriell, Lebhaft",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Emser Str. 16, 12051 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.5 (600 Bewertungen)\n\n**Vibe**: Vintage, Industriell, Lebhaft",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Emser Str. 16, 12051 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -444,13 +444,13 @@
       },
       "properties": {
         "name": "Bierlokal Zum Umsteiger",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Hermannstraße 159, 12051 Berlin\n\n**Öffnungszeiten**: 10:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.2 (130 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Traditionsreich",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Hermannstraße 159, 12051 Berlin\n\n**Öffnungszeiten**: 10:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.2 (130 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Traditionsreich",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Hermannstraße 159, 12051 Berlin",
         "hours_from": "10:00",
         "hours_to": "02:00",
@@ -471,13 +471,13 @@
       },
       "properties": {
         "name": "Ruine Bar",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Emser Str. 34, 12051 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (350 Bewertungen)\n\n**Vibe**: Kerzenschein, Schummrig, Kiez",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Emser Str. 34, 12051 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (350 Bewertungen)\n\n**Vibe**: Kerzenschein, Schummrig, Kiez",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Emser Str. 34, 12051 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -498,13 +498,13 @@
       },
       "properties": {
         "name": "Alt-Berliner Bierlokal Bienenkorb",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Hermannstraße 164, 12051 Berlin\n\n**Öffnungszeiten**: 11:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.3 (220 Bewertungen)\n\n**Vibe**: Urig, Berlinerisch, Stammtisch",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Hermannstraße 164, 12051 Berlin\n\n**Öffnungszeiten**: 11:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.3 (220 Bewertungen)\n\n**Vibe**: Urig, Berlinerisch, Stammtisch",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Hermannstraße 164, 12051 Berlin",
         "hours_from": "11:00",
         "hours_to": "03:00",
@@ -525,13 +525,13 @@
       },
       "properties": {
         "name": "Tante Frizzante Event-Bar & KiezGarten Zart Daneben",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Hermannstraße 99, 12051 Berlin\n\n**Öffnungszeiten**: 17:00 – 02:00\n\n**Preis**: €€ | **Sterne**: 4.7 (280 Bewertungen)\n\n**Vibe**: Bunt, Garten, Eventbar",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Hermannstraße 99, 12051 Berlin\n\n**Öffnungszeiten**: 17:00 – 02:00\n\n**Preis**: €€ | **Sterne**: 4.7 (280 Bewertungen)\n\n**Vibe**: Bunt, Garten, Eventbar",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Hermannstraße 99, 12051 Berlin",
         "hours_from": "17:00",
         "hours_to": "02:00",
@@ -552,13 +552,13 @@
       },
       "properties": {
         "name": "Warthe-Eck",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Hermannstraße 95, 12051 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.1 (210 Bewertungen)\n\n**Vibe**: 24h, Urig, Verraucht",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Hermannstraße 95, 12051 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.1 (210 Bewertungen)\n\n**Vibe**: 24h, Urig, Verraucht",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Hermannstraße 95, 12051 Berlin",
         "hours_from": "00:00",
         "hours_to": "24:00",
@@ -579,13 +579,13 @@
       },
       "properties": {
         "name": "BruchBerg Bar",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Okerstraße 5, 12049 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.6 (310 Bewertungen)\n\n**Vibe**: Schick, Cocktails, Hip",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Okerstraße 5, 12049 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.6 (310 Bewertungen)\n\n**Vibe**: Schick, Cocktails, Hip",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Okerstraße 5, 12049 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -606,13 +606,13 @@
       },
       "properties": {
         "name": "Frollein Langner",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Weisestraße 34, 12049 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.5 (680 Bewertungen)\n\n**Vibe**: Vintage, Wohnzimmer, Kiez",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Weisestraße 34, 12049 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.5 (680 Bewertungen)\n\n**Vibe**: Vintage, Wohnzimmer, Kiez",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Weisestraße 34, 12049 Berlin",
         "hours_from": "18:00",
         "hours_to": "02:00",
@@ -633,13 +633,13 @@
       },
       "properties": {
         "name": "Savo Bar Café",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Weisestraße 35, 12049 Berlin\n\n**Öffnungszeiten**: 17:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.4 (240 Bewertungen)\n\n**Vibe**: Gemütlich, Entspannt, Kiez",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Weisestraße 35, 12049 Berlin\n\n**Öffnungszeiten**: 17:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.4 (240 Bewertungen)\n\n**Vibe**: Gemütlich, Entspannt, Kiez",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Weisestraße 35, 12049 Berlin",
         "hours_from": "17:00",
         "hours_to": "02:00",
@@ -660,13 +660,13 @@
       },
       "properties": {
         "name": "bechereck",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Okerstraße 35, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.5 (190 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Ehrlich",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Okerstraße 35, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.5 (190 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Ehrlich",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Okerstraße 35, 12049 Berlin",
         "hours_from": "16:00",
         "hours_to": "02:00",
@@ -687,13 +687,13 @@
       },
       "properties": {
         "name": "Schattenwerk Bar und Brauerei",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Schillerpromenade 26, 12049 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: €€ | **Sterne**: 4.7 (380 Bewertungen)\n\n**Vibe**: Brauerei, Craftbier, Gemütlich",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Schillerpromenade 26, 12049 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: €€ | **Sterne**: 4.7 (380 Bewertungen)\n\n**Vibe**: Brauerei, Craftbier, Gemütlich",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Schillerpromenade 26, 12049 Berlin",
         "hours_from": "18:00",
         "hours_to": "02:00",
@@ -714,13 +714,13 @@
       },
       "properties": {
         "name": "Zur Molle (Dart- und Billardkneipe)",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Weisestraße 41, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (320 Bewertungen)\n\n**Vibe**: Urig, Darts, Billard",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Weisestraße 41, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (320 Bewertungen)\n\n**Vibe**: Urig, Darts, Billard",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Weisestraße 41, 12049 Berlin",
         "hours_from": "16:00",
         "hours_to": "03:00",
@@ -741,13 +741,13 @@
       },
       "properties": {
         "name": "Bierbaum 3",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Schillerpromenade 31, 12049 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.1 (410 Bewertungen)\n\n**Vibe**: 24h, Kultig, Verraucht",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Schillerpromenade 31, 12049 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.1 (410 Bewertungen)\n\n**Vibe**: 24h, Kultig, Verraucht",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Schillerpromenade 31, 12049 Berlin",
         "hours_from": "00:00",
         "hours_to": "24:00",
@@ -768,13 +768,13 @@
       },
       "properties": {
         "name": "Promenaden Eck",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Schillerpromenade 11, 12049 Berlin\n\n**Öffnungszeiten**: 20:00 – 05:00\n\n**Preis**: € | **Sterne**: 4.4 (750 Bewertungen)\n\n**Vibe**: Party, Tanzbar, Hip",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Schillerpromenade 11, 12049 Berlin\n\n**Öffnungszeiten**: 20:00 – 05:00\n\n**Preis**: € | **Sterne**: 4.4 (750 Bewertungen)\n\n**Vibe**: Party, Tanzbar, Hip",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Schillerpromenade 11, 12049 Berlin",
         "hours_from": "20:00",
         "hours_to": "05:00",
@@ -795,13 +795,13 @@
       },
       "properties": {
         "name": "Daffke",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Herrfurthpl. 7, 12049 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: €€ | **Sterne**: 4.6 (350 Bewertungen)\n\n**Vibe**: Hip, Cocktails, Schillerkiez",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Herrfurthpl. 7, 12049 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: €€ | **Sterne**: 4.6 (350 Bewertungen)\n\n**Vibe**: Hip, Cocktails, Schillerkiez",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Herrfurthpl. 7, 12049 Berlin",
         "hours_from": "18:00",
         "hours_to": "02:00",
@@ -822,13 +822,13 @@
       },
       "properties": {
         "name": "Herrlich Berlin",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Herrfurthstraße 7, 12049 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: €€ | **Sterne**: 4.5 (420 Bewertungen)\n\n**Vibe**: Gemütlich, Weinbar, Hip",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Herrfurthstraße 7, 12049 Berlin\n\n**Öffnungszeiten**: 18:00 – 02:00\n\n**Preis**: €€ | **Sterne**: 4.5 (420 Bewertungen)\n\n**Vibe**: Gemütlich, Weinbar, Hip",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Herrfurthstraße 7, 12049 Berlin",
         "hours_from": "18:00",
         "hours_to": "02:00",
@@ -849,13 +849,13 @@
       },
       "properties": {
         "name": "Froschkönig",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Weisestraße 17, 12049 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (530 Bewertungen)\n\n**Vibe**: Märchenhaft, Livemusik, Kiez",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Weisestraße 17, 12049 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (530 Bewertungen)\n\n**Vibe**: Märchenhaft, Livemusik, Kiez",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Weisestraße 17, 12049 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -876,13 +876,13 @@
       },
       "properties": {
         "name": "Keith Bar",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Schillerpromenade 2, 12049 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.7 (690 Bewertungen)\n\n**Vibe**: Whiskey, Stilvoll, Schummrig",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Schillerpromenade 2, 12049 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.7 (690 Bewertungen)\n\n**Vibe**: Whiskey, Stilvoll, Schummrig",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Schillerpromenade 2, 12049 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -903,13 +903,13 @@
       },
       "properties": {
         "name": "Blauer Affe 1",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Selchower Str. 6, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (160 Bewertungen)\n\n**Vibe**: Urig, Raucherkneipe, Kiez",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Selchower Str. 6, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (160 Bewertungen)\n\n**Vibe**: Urig, Raucherkneipe, Kiez",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Selchower Str. 6, 12049 Berlin",
         "hours_from": "16:00",
         "hours_to": "02:00",
@@ -930,13 +930,13 @@
       },
       "properties": {
         "name": "Mahlower Klause",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Weisestraße 63, 12049 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (140 Bewertungen)\n\n**Vibe**: Urig, Berlinerisch, Eckkneipe",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Weisestraße 63, 12049 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (140 Bewertungen)\n\n**Vibe**: Urig, Berlinerisch, Eckkneipe",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Weisestraße 63, 12049 Berlin",
         "hours_from": "14:00",
         "hours_to": "02:00",
@@ -957,13 +957,13 @@
       },
       "properties": {
         "name": "Bäreneck",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Hermannstraße 37, 12049 Berlin\n\n**Öffnungszeiten**: 12:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.2 (190 Bewertungen)\n\n**Vibe**: Urig, Kultig, Eckkneipe",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Hermannstraße 37, 12049 Berlin\n\n**Öffnungszeiten**: 12:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.2 (190 Bewertungen)\n\n**Vibe**: Urig, Kultig, Eckkneipe",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Hermannstraße 37, 12049 Berlin",
         "hours_from": "12:00",
         "hours_to": "03:00",
@@ -984,13 +984,13 @@
       },
       "properties": {
         "name": "Poison Karaoke Bar Neukölln",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Flughafenstraße 39, 12053 Berlin\n\n**Öffnungszeiten**: 20:00 – 05:00\n\n**Preis**: € | **Sterne**: 4.5 (850 Bewertungen)\n\n**Vibe**: Karaoke, Feuchtfröhlich, Bunt",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Flughafenstraße 39, 12053 Berlin\n\n**Öffnungszeiten**: 20:00 – 05:00\n\n**Preis**: € | **Sterne**: 4.5 (850 Bewertungen)\n\n**Vibe**: Karaoke, Feuchtfröhlich, Bunt",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Flughafenstraße 39, 12053 Berlin",
         "hours_from": "20:00",
         "hours_to": "05:00",
@@ -1011,13 +1011,13 @@
       },
       "properties": {
         "name": "Deriva -Neukölln-",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Mainzer Str. 23, 12053 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.6 (520 Bewertungen)\n\n**Vibe**: Gemütlich, Holzig, Kiez",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Mainzer Str. 23, 12053 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.6 (520 Bewertungen)\n\n**Vibe**: Gemütlich, Holzig, Kiez",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Mainzer Str. 23, 12053 Berlin",
         "hours_from": "18:00",
         "hours_to": "03:00",
@@ -1038,13 +1038,13 @@
       },
       "properties": {
         "name": "Schankwirtschaft Laidak",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Boddinstraße 42/43, 12053 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.6 (920 Bewertungen)\n\n**Vibe**: Bohème, Verraucht, Bücher",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Boddinstraße 42/43, 12053 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.6 (920 Bewertungen)\n\n**Vibe**: Bohème, Verraucht, Bücher",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Boddinstraße 42/43, 12053 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -1065,13 +1065,13 @@
       },
       "properties": {
         "name": "Trude Ruth und Goldammer",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Flughafenstraße 38, 12053 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.6 (610 Bewertungen)\n\n**Vibe**: Vintage, Cocktails, Schick",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Flughafenstraße 38, 12053 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.6 (610 Bewertungen)\n\n**Vibe**: Vintage, Cocktails, Schick",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Flughafenstraße 38, 12053 Berlin",
         "hours_from": "18:00",
         "hours_to": "03:00",
@@ -1092,13 +1092,13 @@
       },
       "properties": {
         "name": "Sandmann",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Reuterstraße 7, 12053 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (580 Bewertungen)\n\n**Vibe**: Gemütlich, Kiez, Studentisch",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Reuterstraße 7, 12053 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (580 Bewertungen)\n\n**Vibe**: Gemütlich, Kiez, Studentisch",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Reuterstraße 7, 12053 Berlin",
         "hours_from": "18:00",
         "hours_to": "03:00",
@@ -1119,13 +1119,13 @@
       },
       "properties": {
         "name": "Zur Pinte",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Fuldastraße 3, 12043 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.3 (250 Bewertungen)\n\n**Vibe**: 24h, Urig, Eckkneipe",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Fuldastraße 3, 12043 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.3 (250 Bewertungen)\n\n**Vibe**: 24h, Urig, Eckkneipe",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Fuldastraße 3, 12043 Berlin",
         "hours_from": "00:00",
         "hours_to": "24:00",
@@ -1146,13 +1146,13 @@
       },
       "properties": {
         "name": "Bierbaum 2",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Sonnenallee 86, 12045 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.0 (380 Bewertungen)\n\n**Vibe**: 24h, Verraucht, Kultig",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Sonnenallee 86, 12045 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.0 (380 Bewertungen)\n\n**Vibe**: 24h, Verraucht, Kultig",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Sonnenallee 86, 12045 Berlin",
         "hours_from": "00:00",
         "hours_to": "24:00",
@@ -1173,13 +1173,13 @@
       },
       "properties": {
         "name": "Rixdorfer",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Erkstraße 14, 12043 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (170 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Kiez",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Erkstraße 14, 12043 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (170 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Kiez",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Erkstraße 14, 12043 Berlin",
         "hours_from": "14:00",
         "hours_to": "02:00",
@@ -1200,13 +1200,13 @@
       },
       "properties": {
         "name": "Weser 58",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Weserstr. 58, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (390 Bewertungen)\n\n**Vibe**: Schummrig, Weserkiez, Hip",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Weserstr. 58, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (390 Bewertungen)\n\n**Vibe**: Schummrig, Weserkiez, Hip",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Weserstr. 58, 12045 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -1227,13 +1227,13 @@
       },
       "properties": {
         "name": "Ä-Stube",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Fuldastraße 46, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (260 Bewertungen)\n\n**Vibe**: Alternativ, Gemütlich, Kiez",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Fuldastraße 46, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (260 Bewertungen)\n\n**Vibe**: Alternativ, Gemütlich, Kiez",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Fuldastraße 46, 12045 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -1254,13 +1254,13 @@
       },
       "properties": {
         "name": "Ä",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Weserstr. 40, 12045 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (1400 Bewertungen)\n\n**Vibe**: Kicker, Kollektiv, Trubelig",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Weserstr. 40, 12045 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (1400 Bewertungen)\n\n**Vibe**: Kicker, Kollektiv, Trubelig",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Weserstr. 40, 12045 Berlin",
         "hours_from": "18:00",
         "hours_to": "03:00",
@@ -1281,13 +1281,13 @@
       },
       "properties": {
         "name": "Ratzeputz",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Weserstr. 182, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.6 (820 Bewertungen)\n\n**Vibe**: Schnapsbar, Rustikal, Hip",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Weserstr. 182, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.6 (820 Bewertungen)\n\n**Vibe**: Schnapsbar, Rustikal, Hip",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Weserstr. 182, 12045 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -1308,13 +1308,13 @@
       },
       "properties": {
         "name": "Sux",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Weserstr. 55, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (340 Bewertungen)\n\n**Vibe**: Retro, Weserkiez, Gesellig",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Weserstr. 55, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (340 Bewertungen)\n\n**Vibe**: Retro, Weserkiez, Gesellig",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Weserstr. 55, 12045 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -1335,13 +1335,13 @@
       },
       "properties": {
         "name": "Peppi Guggenheim International",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Weichselstraße 7, 12043 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.7 (620 Bewertungen)\n\n**Vibe**: Livemusik, Jazz, Kunstbar",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Weichselstraße 7, 12043 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.7 (620 Bewertungen)\n\n**Vibe**: Livemusik, Jazz, Kunstbar",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Weichselstraße 7, 12043 Berlin",
         "hours_from": "18:00",
         "hours_to": "03:00",
@@ -1362,13 +1362,13 @@
       },
       "properties": {
         "name": "Astra Stube Neukölln",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Weichselstraße 63, 12043 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (430 Bewertungen)\n\n**Vibe**: Fankneipe, Kiez, Astra",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Weichselstraße 63, 12043 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (430 Bewertungen)\n\n**Vibe**: Fankneipe, Kiez, Astra",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Weichselstraße 63, 12043 Berlin",
         "hours_from": "18:00",
         "hours_to": "03:00",
@@ -1389,13 +1389,13 @@
       },
       "properties": {
         "name": "Tristeza",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Pannierstraße 5, 12047 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.6 (490 Bewertungen)\n\n**Vibe**: Kollektiv, Kicker, Soli",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Pannierstraße 5, 12047 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.6 (490 Bewertungen)\n\n**Vibe**: Kollektiv, Kicker, Soli",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Pannierstraße 5, 12047 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -1416,13 +1416,13 @@
       },
       "properties": {
         "name": "Schanki_O_Tannenbaum",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Weserstr. 20, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (310 Bewertungen)\n\n**Vibe**: Skurril, Indie, Schummrig",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Weserstr. 20, 12045 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (310 Bewertungen)\n\n**Vibe**: Skurril, Indie, Schummrig",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Weserstr. 20, 12045 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -1443,13 +1443,13 @@
       },
       "properties": {
         "name": "Vater - Bar in Neukoelln",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Weserstr. 202, 12047 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (560 Bewertungen)\n\n**Vibe**: Wohnzimmer, Vintage, Gemütlich",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Weserstr. 202, 12047 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (560 Bewertungen)\n\n**Vibe**: Wohnzimmer, Vintage, Gemütlich",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Weserstr. 202, 12047 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -1470,13 +1470,13 @@
       },
       "properties": {
         "name": "Schillingbar",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Weserstr. 9, 12047 Berlin\n\n**Öffnungszeiten**: 19:00 – 04:00\n\n**Preis**: € | **Sterne**: 4.4 (460 Bewertungen)\n\n**Vibe**: DJs, Soul, Tanzbar",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Weserstr. 9, 12047 Berlin\n\n**Öffnungszeiten**: 19:00 – 04:00\n\n**Preis**: € | **Sterne**: 4.4 (460 Bewertungen)\n\n**Vibe**: DJs, Soul, Tanzbar",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Weserstr. 9, 12047 Berlin",
         "hours_from": "19:00",
         "hours_to": "04:00",
@@ -1497,13 +1497,13 @@
       },
       "properties": {
         "name": "Dschungel",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Friedelstraße 12, 12047 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.5 (710 Bewertungen)\n\n**Vibe**: Grün, Botanisch, Cocktails",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Friedelstraße 12, 12047 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: €€ | **Sterne**: 4.5 (710 Bewertungen)\n\n**Vibe**: Grün, Botanisch, Cocktails",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Friedelstraße 12, 12047 Berlin",
         "hours_from": "18:00",
         "hours_to": "03:00",
@@ -1524,13 +1524,13 @@
       },
       "properties": {
         "name": "Bierbaum 1",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Thomasstraße 9, 12053 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.2 (320 Bewertungen)\n\n**Vibe**: 24h, Urig, Eckkneipe",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Thomasstraße 9, 12053 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.2 (320 Bewertungen)\n\n**Vibe**: 24h, Urig, Eckkneipe",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Thomasstraße 9, 12053 Berlin",
         "hours_from": "00:00",
         "hours_to": "24:00",
@@ -1551,13 +1551,13 @@
       },
       "properties": {
         "name": "Kneipe Zum Heinzelmann",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Karl-Marx-Platz 14, 12043 Berlin-Bezirk Neukölln\n\n**Öffnungszeiten**: 12:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.5 (190 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Traditionsreich",
-        "color": "DodgerBlue",
+        "description": "**Kategorie**: Ausgewählte Bars (Gelb)\n\n**Adresse**: Karl-Marx-Platz 14, 12043 Berlin-Bezirk Neukölln\n\n**Öffnungszeiten**: 12:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.5 (190 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Traditionsreich",
+        "color": "Yellow",
         "_umap_options": {
-          "color": "DodgerBlue"
+          "color": "Yellow"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Ausgewählte Bars (Gelb)",
+        "color_group": "yellow",
         "address": "Karl-Marx-Platz 14, 12043 Berlin-Bezirk Neukölln",
         "hours_from": "12:00",
         "hours_to": "02:00",
@@ -1578,13 +1578,13 @@
       },
       "properties": {
         "name": "Weserkrug",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Weserstraße 200, 12047 Berlin\n\n**Öffnungszeiten**: 12:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (220 Bewertungen)\n\n**Vibe**: Urig, Kiez, Altberlinerisch",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Weserstraße 200, 12047 Berlin\n\n**Öffnungszeiten**: 12:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (220 Bewertungen)\n\n**Vibe**: Urig, Kiez, Altberlinerisch",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Weserstraße 200, 12047 Berlin",
         "hours_from": "12:00",
         "hours_to": "03:00",
@@ -1605,13 +1605,13 @@
       },
       "properties": {
         "name": "Lenau-Stuben",
-        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Lenaustraße 10, 12047 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.4 (150 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Raucherkneipe",
+        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Lenaustraße 10, 12047 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.4 (150 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Raucherkneipe",
         "color": "DarkRed",
         "_umap_options": {
           "color": "DarkRed"
         },
-        "category": "Kneipentour",
-        "highlighted": true,
+        "category": "Kneipentour (Rot)",
+        "color_group": "red",
         "address": "Lenaustraße 10, 12047 Berlin",
         "hours_from": "14:00",
         "hours_to": "02:00",
@@ -1632,13 +1632,13 @@
       },
       "properties": {
         "name": "Vettern Bar",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Weserstraße 202, 12047 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (560 Bewertungen)\n\n**Vibe**: Vintage, Wohnzimmer, Kiez",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Weserstraße 202, 12047 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (560 Bewertungen)\n\n**Vibe**: Vintage, Wohnzimmer, Kiez",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Weserstraße 202, 12047 Berlin",
         "hours_from": "19:00",
         "hours_to": "03:00",
@@ -1659,13 +1659,13 @@
       },
       "properties": {
         "name": "Damensalon",
-        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Reuterstraße 39, 12047 Berlin\n\n**Öffnungszeiten**: 10:00 – 00:00\n\n**Preis**: €€ | **Sterne**: 4.5 (340 Bewertungen)\n\n**Vibe**: Vintage, Café-Bar, Entspannt",
+        "description": "**Kategorie**: Weitere Bars (Blau)\n\n**Adresse**: Reuterstraße 39, 12047 Berlin\n\n**Öffnungszeiten**: 10:00 – 00:00\n\n**Preis**: €€ | **Sterne**: 4.5 (340 Bewertungen)\n\n**Vibe**: Vintage, Café-Bar, Entspannt",
         "color": "DodgerBlue",
         "_umap_options": {
           "color": "DodgerBlue"
         },
-        "category": "Weitere Bars",
-        "highlighted": false,
+        "category": "Weitere Bars (Blau)",
+        "color_group": "blue",
         "address": "Reuterstraße 39, 12047 Berlin",
         "hours_from": "10:00",
         "hours_to": "00:00",

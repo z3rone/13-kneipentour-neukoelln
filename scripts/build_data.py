@@ -9,7 +9,7 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-HIGHLIGHTED_BARS = {
+RED_BARS = {
     "bierbaum 3",
     "bechereck",
     "zur molle (dart- und billardkneipe)",
@@ -29,7 +29,27 @@ HIGHLIGHTED_BARS = {
     "lenau-stuben",
 }
 
-COLOR_HIGHLIGHTED = "DarkRed"
+YELLOW_BARS = {
+    "kneipe zum heinzelmann",
+    "marktbörse",
+    "ringbar",
+    "keglerheim",
+    "sandmann",
+    "deriva -neukölln-",
+    "loreley bar",
+    "frollein langner",
+    "savo bar café",
+    "ruine bar",
+    "sux",
+    "b-lage",
+    "schankwirtschaft laidak",
+    "ä",
+    "tristeza",
+    "kollektiv bar kleinod",
+}
+
+COLOR_RED = "DarkRed"
+COLOR_YELLOW = "Yellow"
 COLOR_DEFAULT = "DodgerBlue"
 
 
@@ -72,9 +92,9 @@ def load_cached_coordinates(csv_path: Path) -> dict[str, tuple[float, float]]:
         with open(csv_path, mode="r", encoding="utf-8") as f:
             reader = csv.DictReader(f)
             for row in reader:
-                addr = row.get("address", "").strip()
-                lat_str = row.get("latitude", "").strip()
-                lon_str = row.get("longitude", "").strip()
+                addr = row.get("address", "").strip() if row.get("address") else ""
+                lat_str = row.get("latitude", "").strip() if row.get("latitude") else ""
+                lon_str = row.get("longitude", "").strip() if row.get("longitude") else ""
                 if addr and lat_str and lon_str:
                     try:
                         cache[addr] = (float(lat_str), float(lon_str))
@@ -94,7 +114,7 @@ def main() -> None:
     features = []
     csv_rows = []
 
-    with open(input_file, mode="r", encoding="utf-8-sig") as f:
+    with open(input_file, mode="r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             name = row["Name"].strip()
@@ -113,9 +133,19 @@ def main() -> None:
                 coord_cache[address] = (lat, lon)
                 time.sleep(0.05)
 
-            is_highlighted = name.lower() in HIGHLIGHTED_BARS
-            marker_color = COLOR_HIGHLIGHTED if is_highlighted else COLOR_DEFAULT
-            category = "Kneipentour" if is_highlighted else "Weitere Bars"
+            name_lower = name.lower()
+            if name_lower in RED_BARS:
+                marker_color = COLOR_RED
+                category = "Kneipentour (Rot)"
+                color_group = "red"
+            elif name_lower in YELLOW_BARS:
+                marker_color = COLOR_YELLOW
+                category = "Ausgewählte Bars (Gelb)"
+                color_group = "yellow"
+            else:
+                marker_color = COLOR_DEFAULT
+                category = "Weitere Bars (Blau)"
+                color_group = "blue"
 
             description_md = (
                 f"**Kategorie**: {category}\n\n"
@@ -133,7 +163,7 @@ def main() -> None:
                     "color": marker_color,
                 },
                 "category": category,
-                "highlighted": is_highlighted,
+                "color_group": color_group,
                 "address": address,
                 "hours_from": hours_from,
                 "hours_to": hours_to,
@@ -161,7 +191,7 @@ def main() -> None:
                     "longitude": lon,
                     "color": marker_color,
                     "category": category,
-                    "highlighted": is_highlighted,
+                    "color_group": color_group,
                     "address": address,
                     "opening_hours": f"{hours_from} - {hours_to}",
                     "price": price,
@@ -186,7 +216,7 @@ def main() -> None:
         "longitude",
         "color",
         "category",
-        "highlighted",
+        "color_group",
         "address",
         "opening_hours",
         "price",
@@ -200,9 +230,11 @@ def main() -> None:
         writer.writeheader()
         writer.writerows(csv_rows)
 
-    highlighted_count = sum(1 for f in features if f["properties"]["highlighted"])
+    red_count = sum(1 for f in features if f["properties"]["color_group"] == "red")
+    yellow_count = sum(1 for f in features if f["properties"]["color_group"] == "yellow")
+    blue_count = sum(1 for f in features if f["properties"]["color_group"] == "blue")
     print(
-        f"Generated {len(features)} points ({highlighted_count} highlighted with {COLOR_HIGHLIGHTED}) "
+        f"Generated {len(features)} points: {red_count} Red, {yellow_count} Yellow, {blue_count} Blue "
         f"in {geojson_out.name} and {csv_out.name}"
     )
 
