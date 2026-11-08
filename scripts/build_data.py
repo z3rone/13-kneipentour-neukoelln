@@ -8,6 +8,27 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+HIGHLIGHTED_BARS = {
+    "bierbaum 3",
+    "bechereck",
+    "zur molle (dart- und billardkneipe)",
+    "mahlower klause",
+    "blauer affe 1",
+    "bäreneck",
+    "warthe-eck",
+    "alt-berliner bierlokal bienenkorb",
+    "bierlokal zum umsteiger",
+    "bierbaum 1",
+    "zur pinte",
+    "bierbaum 2",
+    "rixdorfer",
+    "astra stube neukölln",
+    "zum magendoktor",
+}
+
+COLOR_HIGHLIGHTED = "DarkRed"
+COLOR_DEFAULT = "DodgerBlue"
+
 
 def geocode_address(address: str) -> tuple[float, float]:
     """Geocode address using Photon API with fallback to Nominatim."""
@@ -39,11 +60,31 @@ def geocode_address(address: str) -> tuple[float, float]:
     raise RuntimeError(f"Failed to geocode address: {address}")
 
 
+def load_cached_coordinates(csv_path: Path) -> dict[str, tuple[float, float]]:
+    """Load existing address coordinates from prior CSV output if present."""
+    cache = {}
+    if csv_path.exists():
+        with open(csv_path, mode="r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                addr = row.get("address", "").strip()
+                lat_str = row.get("latitude", "").strip()
+                lon_str = row.get("longitude", "").strip()
+                if addr and lat_str and lon_str:
+                    try:
+                        cache[addr] = (float(lat_str), float(lon_str))
+                    except ValueError:
+                        pass
+    return cache
+
+
 def main() -> None:
     base_dir = Path(__file__).resolve().parent.parent
     input_file = base_dir / "00 Musterseiten div Perioden seite-copy.csv"
     geojson_out = base_dir / "bars.geojson"
     csv_out = base_dir / "bars.csv"
+
+    coord_cache = load_cached_coordinates(csv_out)
 
     features = []
     csv_rows = []
@@ -60,10 +101,19 @@ def main() -> None:
             reviews = row["Anzahl_Bewertungen"].strip()
             vibe = row["Vibe"].strip()
 
-            lat, lon = geocode_address(address)
-            time.sleep(0.05)
+            if address in coord_cache:
+                lat, lon = coord_cache[address]
+            else:
+                lat, lon = geocode_address(address)
+                coord_cache[address] = (lat, lon)
+                time.sleep(0.05)
+
+            is_highlighted = name.lower() in HIGHLIGHTED_BARS
+            marker_color = COLOR_HIGHLIGHTED if is_highlighted else COLOR_DEFAULT
+            category = "Kneipentour" if is_highlighted else "Weitere Bars"
 
             description_md = (
+                f"**Kategorie**: {category}\n\n"
                 f"**Adresse**: {address}\n\n"
                 f"**Öffnungszeiten**: {hours_from} – {hours_to}\n\n"
                 f"**Preis**: {price} | **Sterne**: {rating} ({reviews} Bewertungen)\n\n"
@@ -73,6 +123,12 @@ def main() -> None:
             properties = {
                 "name": name,
                 "description": description_md,
+                "color": marker_color,
+                "_umap_options": {
+                    "color": marker_color,
+                },
+                "category": category,
+                "highlighted": is_highlighted,
                 "address": address,
                 "hours_from": hours_from,
                 "hours_to": hours_to,
@@ -98,6 +154,9 @@ def main() -> None:
                     "name": name,
                     "latitude": lat,
                     "longitude": lon,
+                    "color": marker_color,
+                    "category": category,
+                    "highlighted": is_highlighted,
                     "address": address,
                     "opening_hours": f"{hours_from} - {hours_to}",
                     "price": price,
@@ -120,6 +179,9 @@ def main() -> None:
         "name",
         "latitude",
         "longitude",
+        "color",
+        "category",
+        "highlighted",
         "address",
         "opening_hours",
         "price",
@@ -133,7 +195,11 @@ def main() -> None:
         writer.writeheader()
         writer.writerows(csv_rows)
 
-    print(f"Generated {len(features)} points in {geojson_out.name} and {csv_out.name}")
+    highlighted_count = sum(1 for f in features if f["properties"]["highlighted"])
+    print(
+        f"Generated {len(features)} points ({highlighted_count} highlighted with {COLOR_HIGHLIGHTED}) "
+        f"in {geojson_out.name} and {csv_out.name}"
+    )
 
 
 if __name__ == "__main__":
