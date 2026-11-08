@@ -19,3 +19,4 @@ Geocoded dataset of bars and pubs in Berlin-Neukölln.
 4. Set **Format** to `geojson`.
 5. Enable **Dynamic** (Dynamisch) if you want the map to reload the latest version on each load.
 6. Click **Save** (Speichern).
+

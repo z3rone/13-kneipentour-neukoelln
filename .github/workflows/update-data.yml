@@ -35,3 +35,4 @@ jobs:
             git commit -m "Automated update of bars.geojson and bars.csv [skip ci]"
             git push
           fi
+

@@ -1539,6 +1539,141 @@
         "reviews": 320,
         "vibe": "24h, Urig, Eckkneipe"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4422905,
+          52.4737944
+        ]
+      },
+      "properties": {
+        "name": "Kneipe Zum Heinzelmann",
+        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Karl-Marx-Platz 14, 12043 Berlin-Bezirk Neukölln\n\n**Öffnungszeiten**: 12:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.5 (190 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Traditionsreich",
+        "color": "DodgerBlue",
+        "_umap_options": {
+          "color": "DodgerBlue"
+        },
+        "category": "Weitere Bars",
+        "highlighted": false,
+        "address": "Karl-Marx-Platz 14, 12043 Berlin-Bezirk Neukölln",
+        "hours_from": "12:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 190,
+        "vibe": "Urig, Eckkneipe, Traditionsreich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4321089,
+          52.4873509
+        ]
+      },
+      "properties": {
+        "name": "Weserkrug",
+        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Weserstraße 200, 12047 Berlin\n\n**Öffnungszeiten**: 12:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (220 Bewertungen)\n\n**Vibe**: Urig, Kiez, Altberlinerisch",
+        "color": "DarkRed",
+        "_umap_options": {
+          "color": "DarkRed"
+        },
+        "category": "Kneipentour",
+        "highlighted": true,
+        "address": "Weserstraße 200, 12047 Berlin",
+        "hours_from": "12:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.4,
+        "reviews": 220,
+        "vibe": "Urig, Kiez, Altberlinerisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.427073,
+          52.4901157
+        ]
+      },
+      "properties": {
+        "name": "Lenau-Stuben",
+        "description": "**Kategorie**: Kneipentour\n\n**Adresse**: Lenaustraße 10, 12047 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.4 (150 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Raucherkneipe",
+        "color": "DarkRed",
+        "_umap_options": {
+          "color": "DarkRed"
+        },
+        "category": "Kneipentour",
+        "highlighted": true,
+        "address": "Lenaustraße 10, 12047 Berlin",
+        "hours_from": "14:00",
+        "hours_to": "02:00",
+        "price": "€",
+        "rating": 4.4,
+        "reviews": 150,
+        "vibe": "Urig, Eckkneipe, Raucherkneipe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.431108,
+          52.48772
+        ]
+      },
+      "properties": {
+        "name": "Vettern Bar",
+        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Weserstraße 202, 12047 Berlin\n\n**Öffnungszeiten**: 19:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (560 Bewertungen)\n\n**Vibe**: Vintage, Wohnzimmer, Kiez",
+        "color": "DodgerBlue",
+        "_umap_options": {
+          "color": "DodgerBlue"
+        },
+        "category": "Weitere Bars",
+        "highlighted": false,
+        "address": "Weserstraße 202, 12047 Berlin",
+        "hours_from": "19:00",
+        "hours_to": "03:00",
+        "price": "€",
+        "rating": 4.5,
+        "reviews": 560,
+        "vibe": "Vintage, Wohnzimmer, Kiez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4292557,
+          52.4909171
+        ]
+      },
+      "properties": {
+        "name": "Damensalon",
+        "description": "**Kategorie**: Weitere Bars\n\n**Adresse**: Reuterstraße 39, 12047 Berlin\n\n**Öffnungszeiten**: 10:00 – 00:00\n\n**Preis**: €€ | **Sterne**: 4.5 (340 Bewertungen)\n\n**Vibe**: Vintage, Café-Bar, Entspannt",
+        "color": "DodgerBlue",
+        "_umap_options": {
+          "color": "DodgerBlue"
+        },
+        "category": "Weitere Bars",
+        "highlighted": false,
+        "address": "Reuterstraße 39, 12047 Berlin",
+        "hours_from": "10:00",
+        "hours_to": "00:00",
+        "price": "€€",
+        "rating": 4.5,
+        "reviews": 340,
+        "vibe": "Vintage, Café-Bar, Entspannt"
+      }
     }
   ]
 }

@@ -3,6 +3,7 @@
 
 import csv
 import json
+import re
 import time
 import urllib.parse
 import urllib.request
@@ -24,6 +25,8 @@ HIGHLIGHTED_BARS = {
     "rixdorfer",
     "astra stube neukölln",
     "zum magendoktor",
+    "weserkrug",
+    "lenau-stuben",
 }
 
 COLOR_HIGHLIGHTED = "DarkRed"
@@ -32,8 +35,10 @@ COLOR_DEFAULT = "DodgerBlue"
 
 def geocode_address(address: str) -> tuple[float, float]:
     """Geocode address using Photon API with fallback to Nominatim."""
+    cleaned_address = re.sub(r"-Bezirk\s+[A-Za-zäöüÄÖÜß]+", "", address).strip()
+
     url = "https://photon.komoot.io/api/?" + urllib.parse.urlencode(
-        {"q": f"{address}, Germany", "limit": 1}
+        {"q": f"{cleaned_address}, Germany", "limit": 1}
     )
     req = urllib.request.Request(url, headers={"User-Agent": "NeukoellnKneipenMap/1.0"})
     try:
@@ -47,7 +52,7 @@ def geocode_address(address: str) -> tuple[float, float]:
 
     time.sleep(1.0)
     nom_url = "https://nominatim.openstreetmap.org/search?" + urllib.parse.urlencode(
-        {"q": address, "format": "json", "limit": 1}
+        {"q": cleaned_address, "format": "json", "limit": 1}
     )
     nom_req = urllib.request.Request(
         nom_url, headers={"User-Agent": "NeukoellnKneipenMap/1.0"}
