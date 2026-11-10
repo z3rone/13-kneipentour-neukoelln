@@ -48,7 +48,7 @@ YELLOW_BARS = {
     "kollektiv bar kleinod",
 }
 
-COLOR_RED = "DarkRed"
+COLOR_RED = "Red"
 COLOR_YELLOW = "Yellow"
 COLOR_DEFAULT = "DodgerBlue"
 

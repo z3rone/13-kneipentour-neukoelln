@@ -256,9 +256,9 @@
       "properties": {
         "name": "Zum Magendoktor",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Mareschstraße 19, 12055 Berlin\n\n**Öffnungszeiten**: 10:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.1 (80 Bewertungen)\n\n**Vibe**: Urig, Kultig, Eckkneipe",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -445,9 +445,9 @@
       "properties": {
         "name": "Bierlokal Zum Umsteiger",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Hermannstraße 159, 12051 Berlin\n\n**Öffnungszeiten**: 10:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.2 (130 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Traditionsreich",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -499,9 +499,9 @@
       "properties": {
         "name": "Alt-Berliner Bierlokal Bienenkorb",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Hermannstraße 164, 12051 Berlin\n\n**Öffnungszeiten**: 11:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.3 (220 Bewertungen)\n\n**Vibe**: Urig, Berlinerisch, Stammtisch",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -553,9 +553,9 @@
       "properties": {
         "name": "Warthe-Eck",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Hermannstraße 95, 12051 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.1 (210 Bewertungen)\n\n**Vibe**: 24h, Urig, Verraucht",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -661,9 +661,9 @@
       "properties": {
         "name": "bechereck",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Okerstraße 35, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.5 (190 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Ehrlich",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -715,9 +715,9 @@
       "properties": {
         "name": "Zur Molle (Dart- und Billardkneipe)",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Weisestraße 41, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (320 Bewertungen)\n\n**Vibe**: Urig, Darts, Billard",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -742,9 +742,9 @@
       "properties": {
         "name": "Bierbaum 3",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Schillerpromenade 31, 12049 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.1 (410 Bewertungen)\n\n**Vibe**: 24h, Kultig, Verraucht",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -904,9 +904,9 @@
       "properties": {
         "name": "Blauer Affe 1",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Selchower Str. 6, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (160 Bewertungen)\n\n**Vibe**: Urig, Raucherkneipe, Kiez",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -931,9 +931,9 @@
       "properties": {
         "name": "Mahlower Klause",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Weisestraße 63, 12049 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (140 Bewertungen)\n\n**Vibe**: Urig, Berlinerisch, Eckkneipe",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -958,9 +958,9 @@
       "properties": {
         "name": "Bäreneck",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Hermannstraße 37, 12049 Berlin\n\n**Öffnungszeiten**: 12:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.2 (190 Bewertungen)\n\n**Vibe**: Urig, Kultig, Eckkneipe",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -1120,9 +1120,9 @@
       "properties": {
         "name": "Zur Pinte",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Fuldastraße 3, 12043 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.3 (250 Bewertungen)\n\n**Vibe**: 24h, Urig, Eckkneipe",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -1147,9 +1147,9 @@
       "properties": {
         "name": "Bierbaum 2",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Sonnenallee 86, 12045 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.0 (380 Bewertungen)\n\n**Vibe**: 24h, Verraucht, Kultig",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -1174,9 +1174,9 @@
       "properties": {
         "name": "Rixdorfer",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Erkstraße 14, 12043 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (170 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Kiez",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -1363,9 +1363,9 @@
       "properties": {
         "name": "Astra Stube Neukölln",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Weichselstraße 63, 12043 Berlin\n\n**Öffnungszeiten**: 18:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.5 (430 Bewertungen)\n\n**Vibe**: Fankneipe, Kiez, Astra",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -1525,9 +1525,9 @@
       "properties": {
         "name": "Bierbaum 1",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Thomasstraße 9, 12053 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.2 (320 Bewertungen)\n\n**Vibe**: 24h, Urig, Eckkneipe",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -1579,9 +1579,9 @@
       "properties": {
         "name": "Weserkrug",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Weserstraße 200, 12047 Berlin\n\n**Öffnungszeiten**: 12:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (220 Bewertungen)\n\n**Vibe**: Urig, Kiez, Altberlinerisch",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
@@ -1606,9 +1606,9 @@
       "properties": {
         "name": "Lenau-Stuben",
         "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Lenaustraße 10, 12047 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.4 (150 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Raucherkneipe",
-        "color": "DarkRed",
+        "color": "Red",
         "_umap_options": {
-          "color": "DarkRed"
+          "color": "Red"
         },
         "category": "Kneipentour (Rot)",
         "color_group": "red",
