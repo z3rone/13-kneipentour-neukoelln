@@ -9,24 +9,27 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+DARK_RED_BARS = {
+    "zur molle (dart- und billardkneipe)",
+    "blauer affe 1",
+    "bierlokal zum umsteiger",
+    "warthe-eck",
+    "bierbaum 2",
+    "zur pinte",
+    "weserkrug",
+    "lenau-stuben",
+}
+
 RED_BARS = {
     "bierbaum 3",
     "bechereck",
-    "zur molle (dart- und billardkneipe)",
     "mahlower klause",
-    "blauer affe 1",
     "bäreneck",
-    "warthe-eck",
     "alt-berliner bierlokal bienenkorb",
-    "bierlokal zum umsteiger",
     "bierbaum 1",
-    "zur pinte",
-    "bierbaum 2",
     "rixdorfer",
     "astra stube neukölln",
     "zum magendoktor",
-    "weserkrug",
-    "lenau-stuben",
 }
 
 YELLOW_BARS = {
@@ -48,6 +51,7 @@ YELLOW_BARS = {
     "kollektiv bar kleinod",
 }
 
+COLOR_DARK_RED = "DarkRed"
 COLOR_RED = "Red"
 COLOR_YELLOW = "Yellow"
 COLOR_DEFAULT = "DodgerBlue"
@@ -114,7 +118,7 @@ def main() -> None:
     features = []
     csv_rows = []
 
-    with open(input_file, mode="r", encoding="utf-8") as f:
+    with open(input_file, mode="r", encoding="utf-8-sig") as f:
         reader = csv.DictReader(f)
         for row in reader:
             name = row["Name"].strip()
@@ -134,7 +138,11 @@ def main() -> None:
                 time.sleep(0.05)
 
             name_lower = name.lower()
-            if name_lower in RED_BARS:
+            if name_lower in DARK_RED_BARS:
+                marker_color = COLOR_DARK_RED
+                category = "Kneipentour (Dunkelrot)"
+                color_group = "dark_red"
+            elif name_lower in RED_BARS:
                 marker_color = COLOR_RED
                 category = "Kneipentour (Rot)"
                 color_group = "red"
@@ -230,12 +238,13 @@ def main() -> None:
         writer.writeheader()
         writer.writerows(csv_rows)
 
+    dark_red_count = sum(1 for f in features if f["properties"]["color_group"] == "dark_red")
     red_count = sum(1 for f in features if f["properties"]["color_group"] == "red")
     yellow_count = sum(1 for f in features if f["properties"]["color_group"] == "yellow")
     blue_count = sum(1 for f in features if f["properties"]["color_group"] == "blue")
     print(
-        f"Generated {len(features)} points: {red_count} Red, {yellow_count} Yellow, {blue_count} Blue "
-        f"in {geojson_out.name} and {csv_out.name}"
+        f"Generated {len(features)} points: {dark_red_count} DarkRed, {red_count} Red, "
+        f"{yellow_count} Yellow, {blue_count} Blue in {geojson_out.name} and {csv_out.name}"
     )
 
 

@@ -444,13 +444,13 @@
       },
       "properties": {
         "name": "Bierlokal Zum Umsteiger",
-        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Hermannstraße 159, 12051 Berlin\n\n**Öffnungszeiten**: 10:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.2 (130 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Traditionsreich",
-        "color": "Red",
+        "description": "**Kategorie**: Kneipentour (Dunkelrot)\n\n**Adresse**: Hermannstraße 159, 12051 Berlin\n\n**Öffnungszeiten**: 10:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.2 (130 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Traditionsreich",
+        "color": "DarkRed",
         "_umap_options": {
-          "color": "Red"
+          "color": "DarkRed"
         },
-        "category": "Kneipentour (Rot)",
-        "color_group": "red",
+        "category": "Kneipentour (Dunkelrot)",
+        "color_group": "dark_red",
         "address": "Hermannstraße 159, 12051 Berlin",
         "hours_from": "10:00",
         "hours_to": "02:00",
@@ -552,13 +552,13 @@
       },
       "properties": {
         "name": "Warthe-Eck",
-        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Hermannstraße 95, 12051 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.1 (210 Bewertungen)\n\n**Vibe**: 24h, Urig, Verraucht",
-        "color": "Red",
+        "description": "**Kategorie**: Kneipentour (Dunkelrot)\n\n**Adresse**: Hermannstraße 95, 12051 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.1 (210 Bewertungen)\n\n**Vibe**: 24h, Urig, Verraucht",
+        "color": "DarkRed",
         "_umap_options": {
-          "color": "Red"
+          "color": "DarkRed"
         },
-        "category": "Kneipentour (Rot)",
-        "color_group": "red",
+        "category": "Kneipentour (Dunkelrot)",
+        "color_group": "dark_red",
         "address": "Hermannstraße 95, 12051 Berlin",
         "hours_from": "00:00",
         "hours_to": "24:00",
@@ -714,13 +714,13 @@
       },
       "properties": {
         "name": "Zur Molle (Dart- und Billardkneipe)",
-        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Weisestraße 41, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (320 Bewertungen)\n\n**Vibe**: Urig, Darts, Billard",
-        "color": "Red",
+        "description": "**Kategorie**: Kneipentour (Dunkelrot)\n\n**Adresse**: Weisestraße 41, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (320 Bewertungen)\n\n**Vibe**: Urig, Darts, Billard",
+        "color": "DarkRed",
         "_umap_options": {
-          "color": "Red"
+          "color": "DarkRed"
         },
-        "category": "Kneipentour (Rot)",
-        "color_group": "red",
+        "category": "Kneipentour (Dunkelrot)",
+        "color_group": "dark_red",
         "address": "Weisestraße 41, 12049 Berlin",
         "hours_from": "16:00",
         "hours_to": "03:00",
@@ -903,13 +903,13 @@
       },
       "properties": {
         "name": "Blauer Affe 1",
-        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Selchower Str. 6, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (160 Bewertungen)\n\n**Vibe**: Urig, Raucherkneipe, Kiez",
-        "color": "Red",
+        "description": "**Kategorie**: Kneipentour (Dunkelrot)\n\n**Adresse**: Selchower Str. 6, 12049 Berlin\n\n**Öffnungszeiten**: 16:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.3 (160 Bewertungen)\n\n**Vibe**: Urig, Raucherkneipe, Kiez",
+        "color": "DarkRed",
         "_umap_options": {
-          "color": "Red"
+          "color": "DarkRed"
         },
-        "category": "Kneipentour (Rot)",
-        "color_group": "red",
+        "category": "Kneipentour (Dunkelrot)",
+        "color_group": "dark_red",
         "address": "Selchower Str. 6, 12049 Berlin",
         "hours_from": "16:00",
         "hours_to": "02:00",
@@ -1119,13 +1119,13 @@
       },
       "properties": {
         "name": "Zur Pinte",
-        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Fuldastraße 3, 12043 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.3 (250 Bewertungen)\n\n**Vibe**: 24h, Urig, Eckkneipe",
-        "color": "Red",
+        "description": "**Kategorie**: Kneipentour (Dunkelrot)\n\n**Adresse**: Fuldastraße 3, 12043 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.3 (250 Bewertungen)\n\n**Vibe**: 24h, Urig, Eckkneipe",
+        "color": "DarkRed",
         "_umap_options": {
-          "color": "Red"
+          "color": "DarkRed"
         },
-        "category": "Kneipentour (Rot)",
-        "color_group": "red",
+        "category": "Kneipentour (Dunkelrot)",
+        "color_group": "dark_red",
         "address": "Fuldastraße 3, 12043 Berlin",
         "hours_from": "00:00",
         "hours_to": "24:00",
@@ -1146,13 +1146,13 @@
       },
       "properties": {
         "name": "Bierbaum 2",
-        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Sonnenallee 86, 12045 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.0 (380 Bewertungen)\n\n**Vibe**: 24h, Verraucht, Kultig",
-        "color": "Red",
+        "description": "**Kategorie**: Kneipentour (Dunkelrot)\n\n**Adresse**: Sonnenallee 86, 12045 Berlin\n\n**Öffnungszeiten**: 00:00 – 24:00\n\n**Preis**: € | **Sterne**: 4.0 (380 Bewertungen)\n\n**Vibe**: 24h, Verraucht, Kultig",
+        "color": "DarkRed",
         "_umap_options": {
-          "color": "Red"
+          "color": "DarkRed"
         },
-        "category": "Kneipentour (Rot)",
-        "color_group": "red",
+        "category": "Kneipentour (Dunkelrot)",
+        "color_group": "dark_red",
         "address": "Sonnenallee 86, 12045 Berlin",
         "hours_from": "00:00",
         "hours_to": "24:00",
@@ -1578,13 +1578,13 @@
       },
       "properties": {
         "name": "Weserkrug",
-        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Weserstraße 200, 12047 Berlin\n\n**Öffnungszeiten**: 12:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (220 Bewertungen)\n\n**Vibe**: Urig, Kiez, Altberlinerisch",
-        "color": "Red",
+        "description": "**Kategorie**: Kneipentour (Dunkelrot)\n\n**Adresse**: Weserstraße 200, 12047 Berlin\n\n**Öffnungszeiten**: 12:00 – 03:00\n\n**Preis**: € | **Sterne**: 4.4 (220 Bewertungen)\n\n**Vibe**: Urig, Kiez, Altberlinerisch",
+        "color": "DarkRed",
         "_umap_options": {
-          "color": "Red"
+          "color": "DarkRed"
         },
-        "category": "Kneipentour (Rot)",
-        "color_group": "red",
+        "category": "Kneipentour (Dunkelrot)",
+        "color_group": "dark_red",
         "address": "Weserstraße 200, 12047 Berlin",
         "hours_from": "12:00",
         "hours_to": "03:00",
@@ -1605,13 +1605,13 @@
       },
       "properties": {
         "name": "Lenau-Stuben",
-        "description": "**Kategorie**: Kneipentour (Rot)\n\n**Adresse**: Lenaustraße 10, 12047 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.4 (150 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Raucherkneipe",
-        "color": "Red",
+        "description": "**Kategorie**: Kneipentour (Dunkelrot)\n\n**Adresse**: Lenaustraße 10, 12047 Berlin\n\n**Öffnungszeiten**: 14:00 – 02:00\n\n**Preis**: € | **Sterne**: 4.4 (150 Bewertungen)\n\n**Vibe**: Urig, Eckkneipe, Raucherkneipe",
+        "color": "DarkRed",
         "_umap_options": {
-          "color": "Red"
+          "color": "DarkRed"
         },
-        "category": "Kneipentour (Rot)",
-        "color_group": "red",
+        "category": "Kneipentour (Dunkelrot)",
+        "color_group": "dark_red",
         "address": "Lenaustraße 10, 12047 Berlin",
         "hours_from": "14:00",
         "hours_to": "02:00",
