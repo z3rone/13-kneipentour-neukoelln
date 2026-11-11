@@ -253,6 +253,21 @@ def main() -> None:
                 }
             )
 
+    color_order = {"blue": 0, "yellow": 1, "red": 2, "dark_red": 3}
+
+    features.sort(
+        key=lambda f: (
+            color_order.get(f["properties"]["color_group"], 99),
+            f["properties"]["name"].lower(),
+        )
+    )
+    csv_rows.sort(
+        key=lambda r: (
+            color_order.get(r["color_group"], 99),
+            r["name"].lower(),
+        )
+    )
+
     geojson_payload = {
         "type": "FeatureCollection",
         "features": features,
@@ -266,6 +281,12 @@ def main() -> None:
         for b in SELECTED_BARS
         if b.lower() in features_by_lower_name
     ]
+    selected_features.sort(
+        key=lambda f: (
+            color_order.get(f["properties"]["color_group"], 99),
+            f["properties"]["name"].lower(),
+        )
+    )
     selected_geojson_payload = {
         "type": "FeatureCollection",
         "features": selected_features,
