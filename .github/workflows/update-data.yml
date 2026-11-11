@@ -28,7 +28,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add bars.geojson bars.csv
+          git add bars.geojson bars.csv selected_bars.geojson
           if git diff --staged --quiet; then
             echo "No changes detected."
           else

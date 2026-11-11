@@ -51,6 +51,47 @@ YELLOW_BARS = {
     "kollektiv bar kleinod",
 }
 
+SELECTED_BARS = [
+    "Keglerheim",
+    "B-Lage",
+    "Zum Magendoktor",
+    "Rotbart",
+    "Kneipe Zum Heinzelmann",
+    "Bierbaum 1",
+    "Flaschenzug Bar",
+    "Bierlokal Zum Umsteiger",
+    "Ruine Bar",
+    "Alt-Berliner Bierlokal Bienenkorb",
+    "Warthe-Eck",
+    "Tante Frizzante Event-Bar & KiezGarten Zart Daneben",
+    "Frollein Langner",
+    "bechereck",
+    "Zur Molle (Dart- und Billardkneipe)",
+    "Bierbaum 3",
+    "Froschkönig",
+    "Daffke",
+    "Keith Bar",
+    "Blauer Affe 1",
+    "Mahlower Klause",
+    "Bäreneck",
+    "Schankwirtschaft Laidak",
+    "Deriva -Neukölln-",
+    "Sandmann",
+    "Zur Pinte",
+    "Bierbaum 2",
+    "Rixdorfer",
+    "Weser 58",
+    "Ä",
+    "Tristeza",
+    "Weserkrug",
+    "Vettern Bar",
+    "Schillingbar",
+    "Dschungel",
+    "Lenau-Stuben",
+    "Damensalon",
+]
+SELECTED_BARS_SET = {b.lower() for b in SELECTED_BARS}
+
 COLOR_DARK_RED = "DarkRed"
 COLOR_RED = "Red"
 COLOR_YELLOW = "Yellow"
@@ -111,11 +152,13 @@ def main() -> None:
     base_dir = Path(__file__).resolve().parent.parent
     input_file = base_dir / "00 Musterseiten div Perioden seite-copy.csv"
     geojson_out = base_dir / "bars.geojson"
+    selected_geojson_out = base_dir / "selected_bars.geojson"
     csv_out = base_dir / "bars.csv"
 
     coord_cache = load_cached_coordinates(csv_out)
 
     features = []
+    features_by_lower_name = {}
     csv_rows = []
 
     with open(input_file, mode="r", encoding="utf-8-sig") as f:
@@ -181,16 +224,16 @@ def main() -> None:
                 "vibe": vibe,
             }
 
-            features.append(
-                {
-                    "type": "Feature",
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [lon, lat],
-                    },
-                    "properties": properties,
-                }
-            )
+            feature = {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [lon, lat],
+                },
+                "properties": properties,
+            }
+            features.append(feature)
+            features_by_lower_name[name_lower] = feature
 
             csv_rows.append(
                 {
@@ -217,6 +260,19 @@ def main() -> None:
 
     with open(geojson_out, mode="w", encoding="utf-8") as f:
         json.dump(geojson_payload, f, ensure_ascii=False, indent=2)
+
+    selected_features = [
+        features_by_lower_name[b.lower()]
+        for b in SELECTED_BARS
+        if b.lower() in features_by_lower_name
+    ]
+    selected_geojson_payload = {
+        "type": "FeatureCollection",
+        "features": selected_features,
+    }
+
+    with open(selected_geojson_out, mode="w", encoding="utf-8") as f:
+        json.dump(selected_geojson_payload, f, ensure_ascii=False, indent=2)
 
     csv_fieldnames = [
         "name",
@@ -245,6 +301,9 @@ def main() -> None:
     print(
         f"Generated {len(features)} points: {dark_red_count} DarkRed, {red_count} Red, "
         f"{yellow_count} Yellow, {blue_count} Blue in {geojson_out.name} and {csv_out.name}"
+    )
+    print(
+        f"Generated {len(selected_features)} points in {selected_geojson_out.name}"
     )
 
 
